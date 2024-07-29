@@ -1,0 +1,10 @@
+<resources>
+    <string name="MixTape">
+        <font color="#FFFFFF">Mix</font><font color="#000000">Tape</font>
+    </string>
+    <string name="HelloRohit">
+        <font color="#000000">Hello </font><font color="#F8B133">Rohit !</font>
+    </string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>
